@@ -1,0 +1,1 @@
+# khakas-language-resources
