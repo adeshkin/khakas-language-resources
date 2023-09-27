@@ -1,0 +1,4 @@
+vk_api==11.9.9
+pandas==2.0.3
+tqdm==4.66.1
+beautifulsoup4==4.12.2
