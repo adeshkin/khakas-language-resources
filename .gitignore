@@ -1,7 +1,7 @@
 .idea
 parsed_data
 vk_config.v2.json
-
+prepared_data
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
