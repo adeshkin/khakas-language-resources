@@ -1,6 +1,6 @@
 
 
-### Monolingual data:
+### Monolingual khakas data:
 - located - **khakas_texts/data**
 
 ```python
